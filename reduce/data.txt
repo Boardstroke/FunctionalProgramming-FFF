@@ -1,0 +1,6 @@
+matheus fachini pizza 80 2
+matheus fachini xis 200 1
+matheus fachini knife 10 4
+Bruna Capitanio pizza 80 1
+Bruna Capitanio knife 10 2
+Bruna Capitanio pot 20 3
